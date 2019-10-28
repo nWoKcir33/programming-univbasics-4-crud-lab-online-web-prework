@@ -1,22 +1,36 @@
 def create_an_empty_array
-  
+[]
 end
+
+p create_an_empty_array
 
 def create_an_array
-  
+  create_an_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 end
 
-def add_element_to_end_of_array(array, element)
-  
+p create_an_array
+
+def add_element_to_end_of_array
+  add_element_to_end_of_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+  add_element_to_end_of_array.push("Arsenal")
 end
 
-def add_element_to_start_of_array(array, element)
-  
+p add_element_to_end_of_array
+
+def add_element_to_start_of_array
+  add_element_to_start_of_array = ["Man City", "Leicester", "Chelsea"]
+  add_element_to_start_of_array.unshift("Liverpool")
 end
 
-def remove_element_from_end_of_array(array)
-  
+p add_element_to_start_of_array
+
+def premier_leagues
+  premier_leagues = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+  chelsea_league = premier_leagues.pop
 end
+
+p premier_leagues
+
 
 def remove_element_from_start_of_array(array)
   
