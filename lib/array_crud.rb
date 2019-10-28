@@ -60,7 +60,7 @@ end
 
 p retrieve_last_element_from_array
 
-def update_element_from_index(array, index_number, element)
+def update_element_from_index
 update_element_from_index = ["Liverpool", "Man City", "Leicester", "Arsenal"]
 update_element_from_index[-1] = "Chelsea"
 end
