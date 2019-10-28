@@ -48,9 +48,10 @@ p retrieve_element_from_index
 
 def retrieve_first_element_from_array(array)
   retrieve_first_element_from_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
-  retrieve_first_element_from_array.index
-  
+  retrieve_first_element_from_array.index("Liverpool")
 end
+
+p retrieve_first_element_from_array
 
 def retrieve_last_element_from_array(array)
   
