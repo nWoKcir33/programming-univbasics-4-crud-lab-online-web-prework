@@ -46,7 +46,7 @@ end
 
 p retrieve_element_from_index
 
-def retrieve_first_element_from_array(array)
+def retrieve_first_element_from_array
   retrieve_first_element_from_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
   retrieve_first_element_from_array.index("Liverpool")
 end
