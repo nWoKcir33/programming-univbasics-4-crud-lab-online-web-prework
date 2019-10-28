@@ -39,7 +39,7 @@ end
 
 p premier_league
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index
   retrieve_element_from_index = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 end
 
