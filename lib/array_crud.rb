@@ -34,7 +34,7 @@ p premier_leagues
 
 def premier_league
   premier_league = ["Man Utd", "Liverpool", "Man City", "Leicester"]
-  Man_Utd = premier_league.shift
+  man_utd = premier_league.shift
 end
 
 p premier_league
