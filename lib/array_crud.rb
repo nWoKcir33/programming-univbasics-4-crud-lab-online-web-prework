@@ -47,6 +47,7 @@ end
 p retrieve_element_from_index
 
 def retrieve_first_element_from_array(array)
+  retrieve_first_element_from_array = 
   
 end
 
