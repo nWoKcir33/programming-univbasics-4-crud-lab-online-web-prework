@@ -54,8 +54,11 @@ end
 p retrieve_first_element_from_array
 
 def retrieve_last_element_from_array(array)
-  retrieve_last_element_from_array = 
+  retrieve_last_element_from_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+  retrieve_last_element_from_array[-1]
 end
+
+p retrieve_last_element_from_array
 
 def update_element_from_index(array, index_number, element)
 
