@@ -53,7 +53,7 @@ end
 
 p retrieve_first_element_from_array
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array
   retrieve_last_element_from_array = ["Liverpool", "Man City", "Leicester", "Chelsea"]
   retrieve_last_element_from_array[-1]
 end
