@@ -34,7 +34,7 @@ p premier_leagues
 
 def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array = ["Man Utd", "Liverpool", "Man City", "Leicester"]
-  
+  Man_Utd = 
 end
 
 def retrieve_element_from_index(array, index_number)
